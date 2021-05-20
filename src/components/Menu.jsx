@@ -7,16 +7,16 @@ import React from 'react'
     export default function Main (){
         return(
           
-            <header class="cabeçalho">
-      <div class="logo">
+            <header className="cabeçalho">
+      <div className="logo">
         <a href="#inicio">
           <img src="logo192.png" alt="Logo" />
         </a>
         </div>
-        <button class="menu-toggle">
-          <i class="fa fa-lg fa-bars"></i>
+        <button className="menu-toggle">
+          <i className="fa fa-lg fa-bars"></i>
         </button>
-          <nav class="menu">
+          <nav className="menu">
             <ul>
             <li>
               <a href="#inicio">Inicio</a>
@@ -32,7 +32,7 @@ import React from 'react'
             </li>
           </ul>
         </nav>
-        <aside class="autenticacao">
+        <aside className="autenticacao">
           <a href="#login">Login</a>
           <a href="#registrar" class="botao destaque">Registrar</a>
         </aside>
