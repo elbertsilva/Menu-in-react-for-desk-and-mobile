@@ -29,9 +29,9 @@ export default function Main() {
         </ul>
       </nav>
       <aside className="autenticacao">
-        <a href="#login">Login</a>
+        <a href="#login">elbertsilva@gmail.com</a>
         <a href="#registrar" class="botao destaque">
-          Registrar
+          Logout
         </a>
       </aside>
     </header>
