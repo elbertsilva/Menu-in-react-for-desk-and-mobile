@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Menu-in-react-for-desk-and-mobile/static/css/main.cdc02588.chunk.css",
-    "main.js": "/Menu-in-react-for-desk-and-mobile/static/js/main.148154e3.chunk.js",
-    "main.js.map": "/Menu-in-react-for-desk-and-mobile/static/js/main.148154e3.chunk.js.map",
+    "main.js": "/Menu-in-react-for-desk-and-mobile/static/js/main.93f3a44b.chunk.js",
+    "main.js.map": "/Menu-in-react-for-desk-and-mobile/static/js/main.93f3a44b.chunk.js.map",
     "runtime-main.js": "/Menu-in-react-for-desk-and-mobile/static/js/runtime-main.1f77ddc8.js",
     "runtime-main.js.map": "/Menu-in-react-for-desk-and-mobile/static/js/runtime-main.1f77ddc8.js.map",
     "static/js/2.2c930e66.chunk.js": "/Menu-in-react-for-desk-and-mobile/static/js/2.2c930e66.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1f77ddc8.js",
     "static/js/2.2c930e66.chunk.js",
     "static/css/main.cdc02588.chunk.css",
-    "static/js/main.148154e3.chunk.js"
+    "static/js/main.93f3a44b.chunk.js"
   ]
 }
