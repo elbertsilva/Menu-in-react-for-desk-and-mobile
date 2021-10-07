@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-import Main from './components/Menu'
+import Routes from "./router";
 
 function App() {
   return (
     <>
-    <Main />
+      <Routes />
     </>
   );
 }

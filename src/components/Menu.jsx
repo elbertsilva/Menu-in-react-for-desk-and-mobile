@@ -1,12 +1,13 @@
 import "./Menu.css";
 import React from "react";
+import image from "../assets/logo192.png";
 
 export default function Main() {
   return (
     <header className="cabeçalho">
       <div className="logo">
         <a href="#inicio">
-          <img src="pexels-photo-3750272.jpeg" alt="Logo" />
+          <img src={image} alt="Logo" />
         </a>
       </div>
       <button className="menu-toggle">
